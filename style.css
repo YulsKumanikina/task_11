@@ -1,0 +1,80 @@
+th {
+   border: 2px solid rgb(102, 102, 102);
+   height: 40px;
+   text-align:center;
+   background-color: rgb(160, 149, 133);;
+}
+
+div.captionOne {
+   top: 500px;
+   left: 1500px;
+   font-size: 50px;
+}
+td {
+   border: 0.5px solid black;
+   height: 50px;
+   text-align:center;
+   font-size: 19px;
+   background-color: rgb(255, 249, 249)
+}
+
+table.first {
+   border: 2px rgb(119, 117, 115);
+   width: 80%;
+   position: absolute;
+   top: 165px;
+   left: 180px;
+}
+
+div.captionOne {
+   position:absolute;
+   top: 110px;
+   left: 200px;
+   font-size: 35px;
+}
+
+* {
+   background-color: rgb(49, 148, 82);
+}
+
+table.second {
+   width: 80%;
+   position: absolute;
+   top: 590px;
+   left: 180px;
+}
+
+div.captionTwo {
+   position:absolute;
+   top: 540px;
+   left: 205px;
+   font-size: 35px;
+}
+
+div.captionTree {
+   position:absolute;
+   top: 1150px;
+   left: 200px;
+   font-size: 35px;
+}
+
+table.third {
+   width: 80%;
+   position: absolute;
+   top: 1250px;
+   left: 180px;
+}
+
+div.end {
+   position: absolute;
+   top: 1830px;
+   font-size: 30px;
+   width: 80%;
+   left: 190px;
+}
+
+footer {
+   padding-top: 50px;
+   text-align: center;
+   text-decoration: none;
+}
